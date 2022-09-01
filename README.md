@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Welcome&height=150&fontSize=60&desc=KiUng's%20github&descAlignY=75&descAlign=60)  
 
+```
 Thank you for visit my github  
 Yoon can call me kiung or kiyoon or anything you want!  
 I am struggling to become a good SW developer  
-
+```  
 🎓 Graduated from <span style="color:blueviolet"> Ajou University </span>  
 🖥 I'm participating in a boot camp called <span style="color:blueviolet"> 42Seoul </span>  
 ✉️ rldnd4429@gmail.com  
